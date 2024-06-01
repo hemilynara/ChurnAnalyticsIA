@@ -7,5 +7,4 @@ Integrantes:
 - Carlos (RM97528)
 - Hemily (RM550889)
 - Kaique (RM551165)
-- Matheus (RM94446)
 - Vinicius (RM98839)
